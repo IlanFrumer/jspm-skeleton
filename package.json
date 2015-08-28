@@ -1,0 +1,14 @@
+{
+  "jspm": {
+    "directories": {
+      "baseURL": "src",
+      "packages": "src/jspm"
+    },
+    "configFile": "src/cfg.js",
+    "dependencies": {
+      "css": "^0.1.0",
+      "famous": "github:trusktr/famous@jspm",
+      "infamous": "github:infamous/infamous@master"
+    }
+  }
+}
